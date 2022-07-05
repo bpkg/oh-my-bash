@@ -1,0 +1,10 @@
+{
+  "name": "oh-my-bash",
+  "user": "ohmybash",
+  "repo": "ohmybash/oh-my-bash",
+  "version": "master",
+  "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+  "global": "1",
+  "install": "curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh | bash",
+  "scripts": ["oh-my-bash.sh"]
+}
